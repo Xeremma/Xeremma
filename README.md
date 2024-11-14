@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Svetlana
+- 👀 I'm implementing and configuring CRM systems
+- 🌱 I'm currently studying application development in Bitrix24****
+- 📫 email: xeremma@mail.ru
